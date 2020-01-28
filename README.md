@@ -1,3 +1,3 @@
 # Hello-World
-First repository, yay!
+First repository, yay! <br>
 GitHub Guides rock!
